@@ -19,3 +19,9 @@ It is about the adventure of pirate **Monkey D. Luffy**, who has the ability to 
 | Chapters in Manga | Episodes in Anime |
 | :---------------: | :---------------: |
 | 1099 | 1085 |
+
+# Group 3
+- Andaya,Hero Owen
+- Banasihan,Keneth Mariuz
+- Batiles,Jaeson
+- Villegas,Nica Michi
